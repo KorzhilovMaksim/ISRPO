@@ -1,0 +1,10 @@
+D:\Коржилов\Матющенко\lab4\CezarShiphr\bin\Debug\CezarShiphr.exe.config
+D:\Коржилов\Матющенко\lab4\CezarShiphr\bin\Debug\CezarShiphr.exe
+D:\Коржилов\Матющенко\lab4\CezarShiphr\bin\Debug\CezarShiphr.pdb
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.csproj.AssemblyReference.cache
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.s.resources
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.Properties.Resources.resources
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.csproj.GenerateResource.cache
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.csproj.CoreCompileInputs.cache
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.exe
+D:\Коржилов\Матющенко\lab4\CezarShiphr\obj\Debug\CezarShiphr.pdb
